@@ -8,11 +8,11 @@ Repocitorio dedicado a la resolucion de trabajos practicos de la materia Diseño
 
 * Actis Tobias
 * Bruna Matias
-*Depetris Guillermo 
-*Lede Francisco 
-*Rampa Joaquin 
-*Rossetti Giuliano 
-*Vega Braian
+* Depetris Guillermo 
+* Lede Francisco 
+* Rampa Joaquin 
+* Rossetti Giuliano 
+* Vega Braian
 
 
 
