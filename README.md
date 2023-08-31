@@ -6,13 +6,13 @@ Repocitorio dedicado a la resolucion de trabajos practicos de la materia Diseño
 
 ### Los Integrantes del grupo son:
 
-Actis Tobias
-Bruna Matias
-Depetris Guillermo 
-Lede Francisco 
-Rampa Joaquin 
-Rossetti Giuliano 
-Vega Braian
+* Actis Tobias
+* Bruna Matias
+*Depetris Guillermo 
+*Lede Francisco 
+*Rampa Joaquin 
+*Rossetti Giuliano 
+*Vega Braian
 
 
 
